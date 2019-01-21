@@ -1,0 +1,8 @@
+{
+    "name": "cuerpo_de_HTML",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Rangel",
+    "contributors": [],
+    "dependencies": {}
+}
